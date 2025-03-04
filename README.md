@@ -22,9 +22,10 @@ ConsumerBehavior_PostPandemic/
 │   ├── ecommerce_customer_behavior.csv     # Raw dataset from Kaggle
 │   └── README.md                           # Data dictionary and description
 ├── visualizations/
-│   ├── confusion_matrix.png                # Figure 1: Confusion Matrix
-│   ├── roc_curve.png                       # Figure 2: ROC Curve
-│   └── feature_importance.png              # Figure 3: Feature Importance
+│   ├── Project Workflow Flowchart.png      # Figure 1: Project Workflow Flowchart
+│   ├── confusion_matrix.png                # Figure 2: Confusion Matrix
+│   ├── roc_curve.png                       # Figure 3: ROC Curve
+│   └── feature_importance.png              # Figure 4: Feature Importance
 ├── docs/
 │   └── Final_Project_Report.pdf            # Final academic report
 ├── requirements.txt                        # Required dependencies
