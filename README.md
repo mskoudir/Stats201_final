@@ -87,7 +87,7 @@ ConsumerBehavior_PostPandemic/
 For a demonstration of our analysis and results:
 
 - **Demo Video:** [Watch on YouTube](https://www.youtube.com/your_demo_video_link)
-- **Poster:** [View Poster](https://www.yourwebsite.com/your_poster_link)
+- **Poster:** [View Poster](https://docs.google.com/presentation/d/1OPPqAaMMQvAm-oTtG3Yc7NHvv0OaPV6NeV-60rAdqhA/edit?usp=sharing)
 
 ---
 
