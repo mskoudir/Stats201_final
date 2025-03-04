@@ -99,7 +99,7 @@ Additional materials, including data preprocessing steps and discussions of alte
 
 ## 👥 Authors and Acknowledgments
 
-- **Authors:** [List your team members and their roles]
+- **Authors:** Mohamed Sami Koudir
 - **Acknowledgments:** Special thanks to **Professor Luyao Zhang**, classmates, and the **open-source community** for their invaluable contributions.
 
 ---
